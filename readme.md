@@ -38,3 +38,12 @@ Install dependencies and run
 ```sh
 $ uvicorn main:app --reload
 ```
+
+## Setup of API
+
+To use the API go to http://localhost:8000/
+
+- /students/
+- /student/{student_id}
+
+Documentation could be seen at http://localhost:8000/docs
